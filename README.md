@@ -101,7 +101,6 @@ This project demonstrates practical cloud engineering skills including multi-reg
          │                           │
          └──────────┬────────────────┘
                     ▼
-
                  Amazon S3
             Content Synchronization
 ```
@@ -161,25 +160,7 @@ This project demonstrates practical cloud engineering skills including multi-reg
 ## 🔄 Deployment Workflow
 
 ```text
-Custom VPC Setup
-        →
-Networking Configuration
-        →
-EC2 Provisioning
-        →
-RDS Deployment
-        →
-WordPress Installation
-        →
-SSL Configuration
-        →
-Load Balancer Setup
-        →
-Route 53 DNS Mapping
-        →
-S3 Synchronization
-        →
-Failover Testing
+Custom VPC Setup → Networking Configuration → EC2 Provisioning → RDS Deployment → WordPress Installation → SSL Configuration → Load Balancer Setup → Route 53 DNS Mapping → S3 Synchronization → Failover Testing
 ```
 
 ---
