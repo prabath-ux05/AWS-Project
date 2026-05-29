@@ -195,31 +195,7 @@ Ohio Region
 ### 🔀 Flow Architecture 
 
 <p align="center">
-  <img src="docs/flow-architecture.png" width="90%">
-</p>
-
-### 🌐 VPC Architecture
-
-<p align="center">
-  <img src="docs/vpc-architecture.png" width="90%">
-</p>
-
-### 🖥️ WordPress Deployment
-
-<p align="center">
-  <img src="docs/wordpress-dashboard.png" width="90%">
-</p>
-
-### 🌍 Route 53 Failover Configuration
-
-<p align="center">
-  <img src="docs/route53-failover.png" width="90%">
-</p>
-
-### 📦 S3 Synchronization
-
-<p align="center">
-  <img src="docs/s3-sync.png" width="90%">
+  <img src="docs/Multi-Region Deployment.png" width="90%">
 </p>
 
 ---
