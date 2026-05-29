@@ -88,22 +88,22 @@ This project demonstrates practical cloud engineering skills including multi-reg
          │                           │
          ▼                           ▼
 
-      ELB                           ELB
+        ELB                         ELB
          │                           │
          ▼                           ▼
 
-      EC2                           EC2
-    WordPress                    WordPress
+        EC2                         EC2
+      WordPress                   WordPress
          │                           │
          ▼                           ▼
 
-      RDS                           RDS
+        RDS                         RDS
          │                           │
          └──────────┬────────────────┘
                     ▼
 
-               Amazon S3
-         Content Synchronization
+                 Amazon S3
+            Content Synchronization
 ```
 
 ---
@@ -211,7 +211,7 @@ Ohio Region
 
 ## 🖼️ Project Preview
 
-### 🌐 Flow Architecture 
+### 🔀 Flow Architecture 
 
 <p align="center">
   <img src="docs/flow-architecture.png" width="90%">
