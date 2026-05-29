@@ -82,22 +82,22 @@ This project demonstrates practical cloud engineering skills including multi-reg
          │                           │
          ▼                           ▼
 
-   Production Region          DR Region
-     (Mumbai)                 (Ohio)
+   Production Region             DR Region
+     (Mumbai)                     (Ohio)
 
          │                           │
          ▼                           ▼
 
-      ELB                       ELB
+      ELB                           ELB
          │                           │
          ▼                           ▼
 
-      EC2                       EC2
-    WordPress                WordPress
+      EC2                           EC2
+    WordPress                    WordPress
          │                           │
          ▼                           ▼
 
-      RDS                       RDS
+      RDS                           RDS
          │                           │
          └──────────┬────────────────┘
                     ▼
